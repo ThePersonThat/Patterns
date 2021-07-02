@@ -1,8 +1,8 @@
-package com.alex.patterns.abstractfactory.fordfactory;
+package com.alex.patterns.abstractfactory.example.fordfactory;
 
-import com.alex.patterns.abstractfactory.Jeep;
-import com.alex.patterns.abstractfactory.SportCar;
-import com.alex.patterns.abstractfactory.CarsFactory;
+import com.alex.patterns.abstractfactory.example.Jeep;
+import com.alex.patterns.abstractfactory.example.SportCar;
+import com.alex.patterns.abstractfactory.example.CarsFactory;
 
 /*
  * This is a specific implementation of the abstract factory

@@ -1,6 +1,8 @@
-package com.alex.patterns.abstractfactory;
+package com.alex.patterns.abstractfactory.example;
 
-import com.alex.patterns.abstractfactory.fordfactory.FordFactory;
+import com.alex.patterns.abstractfactory.example.CarsFactory;
+import com.alex.patterns.abstractfactory.example.SportCar;
+import com.alex.patterns.abstractfactory.example.fordfactory.FordFactory;
 
 public class Main {
     public static void main(String[] args) {
