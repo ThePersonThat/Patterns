@@ -3,6 +3,7 @@
 * When a class doesn't know what sub-classes will be required to create
 * When a class wants that its sub-classes specify the objects to be created.
 ## UML
+![img_1.png](images/img.png)
 ## Additional information
 #### Abstract Factory vs Factory Method ####
 1. Abstract factory used for a set of items, Factory method used for only one item.
@@ -37,8 +38,6 @@
         abstract Button createButton();
     }
 ```
-## UML
-![img_1.png](images/img.png)
 ## Extra resources
 * https://refactoring.guru/design-patterns/factory-method
 * [Difference between Abstract factory and Factory Method](https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns)
