@@ -4,3 +4,4 @@ This is the repository for learning patterns
 * [Builder](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/builder) ✓
 * [Factory method](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/factorymethod) ✓
 * [Prototype](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/prototype) ✓
+* [Adapter](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/adapter) ✓
