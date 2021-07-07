@@ -11,32 +11,32 @@
    Factory method is a method that creates one object and can be overridden.
    
 ```java
-    /* 
-    *  This is the abstract factory. It can create several objects.
-    *  This example uses GUI elements and some certain factory can 
-    *  implement this interface (For example AwesomeThemeFactory)
-    */
-    interface AbstractFactory {
-        Button createButton();
-        TextField createTextField();
-        Form createForm();
-    }
+/* 
+ *  This is the abstract factory. It can create several objects.
+ *  This example uses GUI elements and some certain factory can 
+ *  implement this interface (For example AwesomeThemeFactory)
+ */
+interface AbstractFactory {
+    Button createButton();
+    TextField createTextField();
+    Form createForm();
+}
 ```
 
 ```java
-    /* 
-    *  This is the basic factory class. It can be extended by a certain 
-    *  class (for example with LoginForm with "LoginButton")   
-    */
-    abstract class Form {
-        /* some logic */
+/* 
+ *  This is the basic factory class. It can be extended by a certain 
+ *  class (for example with LoginForm with "LoginButton")   
+ */
+abstract class Form {
+    /* some logic */
    
-        /*
-         *  This is factory method that is overridden and creates objects 
-         *  in subclasses.
-         */
-        abstract Button createButton();
-    }
+    /*
+     *  This is factory method that is overridden and creates objects 
+     *  in subclasses.
+     */
+   abstract Button createButton();
+}
 ```
 ## Extra resources
 * https://refactoring.guru/design-patterns/factory-method
