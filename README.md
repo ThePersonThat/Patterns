@@ -5,3 +5,4 @@ This is the repository for learning patterns
 * [Factory method](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/factorymethod) ✓
 * [Prototype](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/prototype) ✓
 * [Adapter](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/adapter) ✓
+* [Bridge](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/bridge) ✓
