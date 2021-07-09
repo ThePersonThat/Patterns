@@ -6,4 +6,5 @@ This is the repository for learning patterns
 * [Prototype](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/prototype) ✓
 * [Adapter](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/adapter) ✓
 * [Bridge](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/bridge) ✓
-* [Compositor](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/compositor) ✓ 
+* [Compositor](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/compositor) ✓
+* [Decorator](https://github.com/ThePersonThat/Patterns/tree/master/src/main/java/com/alex/patterns/decorator) ✓
